@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m **Ajay**, a passionate developer focused on:
+I’m **Ajay Kumar**, a passionate developer focused on:
 - Writing clean and efficient code in **Java**
 - Mastering **DSA** (Recursion, Backtracking, DP, Graphs, Greedy)
 - Building real-world full-stack apps using the **MERN Stack**
@@ -13,7 +13,6 @@ I’m **Ajay**, a passionate developer focused on:
 
 I’m currently preparing for **SDE-1 roles** at top companies like **Google, Amazon, and Microsoft**.
 
----
 ---
 ## 🛠️ Tech Stack
 
@@ -36,14 +35,14 @@ I’m currently preparing for **SDE-1 roles** at top companies like **Google, Am
 
 ---
 ## 🎓 Education
-- **Lovely Professional University (LPU)** — Punjab, India  
-  *B.Tech(CSE-AI/ML)(23 - Present)* — **CGPA: 7.5**
+- **Lovely Professional University** — Punjab, India  
+  *B.Tech(CSE-AI/ML)(2023 - Present)* — **CGPA: 7.5**
 
 - **Sri Chaitanya College** — Khammam, Telangana  
-  *Intermediate (21 – 23)* — **94%**
+  *Intermediate (2021 – 2023)* — **94%**
 
 - **10th Class (SSC)** — Hyderabad, Telangana  
-  *Matriculation (11 – 21)* — **100%**
+  *Matriculation (2011 – 2021)* — **100%**
 
 
 ## 🌐 Connect With Me
