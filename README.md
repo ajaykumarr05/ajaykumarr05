@@ -41,7 +41,7 @@ I’m currently preparing for **SDE-1 roles** at top companies like **Google, Am
 - **Sri Chaitanya College** — Khammam, Telangana  
   *Intermediate (2021 – 2023)* — **94%**
 
-- **10th Class (SSC)** — Hyderabad, Telangana  
+- **Sri Chaitanya School** — Hyderabad, Telangana  
   *Matriculation (2011 – 2021)* — **100%**
 
 
