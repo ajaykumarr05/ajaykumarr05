@@ -37,13 +37,13 @@ I’m currently preparing for **SDE-1 roles** at top companies like **Google, Am
 ---
 ## 🎓 Education
 - **Lovely Professional University (LPU)** — Punjab, India  
-  *B.Tech (CSE)* — **CGPA: 7.5**
+  *B.Tech(CSE-AI/ML)(23 - Present)* — **CGPA: 7.5**
 
 - **Sri Chaitanya College** — Khammam, Telangana  
-  *Intermediate (2021 – 2023)* — **94%**
+  *Intermediate (21 – 23)* — **94%**
 
 - **10th Class (SSC)** — Hyderabad, Telangana  
-  *(Nov 2011 – Mar 2021)* — **100%**
+  *Matriculation (11 – 21)* — **100%**
 
 
 ## 🌐 Connect With Me
