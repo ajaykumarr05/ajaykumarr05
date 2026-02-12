@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi I'am Ajay Kumar Yadav 👋
 
-<!--
-**ajaykumarr05/ajaykumarr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **SDE Aspirant | Java + DSA | MERN Stack Developer | Machine Learning Enthusiast**  
+📍 India | 🚀 Actively building projects + preparing for product-based companies
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I’m **Ajay**, a passionate developer focused on:
+- Writing clean and efficient code in **Java**
+- Mastering **DSA** (Recursion, Backtracking, DP, Graphs, Greedy)
+- Building real-world full-stack apps using the **MERN Stack**
+- Exploring **Machine Learning** including **Supervised/Unsupervised Learning, NLP, and Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently preparing for **SDE-1 roles** at top companies like **Google, Amazon, and Microsoft**.
+
+---
+---
+## 🛠️ Tech Stack
+
+**Programming:** Java, C++, JavaScript, Python  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**CS Fundamentals:** OOP, DBMS, OS, CN  
+**Machine Learning:** Supervised, Unsupervised, NLP, Computer Vision  
+**Tools:** Git, GitHub, Postman  
+**Cloud/DevOps :** Linux, Docker, Deployment, AWS, Kubernetes
+
+---
+
+## 📌 Featured Work (Updating regularly)
+- ✅ **DSA Interview Prep (Java)** — Topic-wise solutions + notes  
+- ✅ **MERN Full Stack Project** — Auth, CRUD, APIs, deployment  
+- ✅ **Backend REST API Project** — Clean architecture + best practices  
+- ✅ **ML Mini Projects** — NLP & Computer Vision basics
+
+---
+## 🎓 Education
+- **Lovely Professional University (LPU)** — Punjab, India  
+  *B.Tech (CSE)* — **CGPA: 7.5**
+
+- **Sri Chaitanya College** — Khammam, Telangana  
+  *Intermediate (2021 – 2023)* — **94%**
+
+- **10th Class (SSC)** — Hyderabad, Telangana  
+  *(Nov 2011 – Mar 2021)* — **100%**
+
+
+## 🌐 Connect With Me
+- LinkedIn: *https://www.linkedin.com/in/ajaykumaryadav07/*
+- LeetCode: *https://leetcode.com/u/ajaykumarryadav07/*
+- Email: *ajaykumaronline.in@gmail.com*
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
