@@ -41,7 +41,7 @@ I’m currently preparing for **SDE-1 roles** at top companies like **Google, Am
 - **Krishna Veni Junior College** — Khammam, Telangana  
   *Intermediate (2021 – 2023)* — **94%**
 
-- **Brilliant High Schools** — Dornakal, Telangana  
+- **Brilliant High School** — Dornakal, Telangana  
   *Matriculation (2011 – 2021)* — **100%**
 
 
