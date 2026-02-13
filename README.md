@@ -38,10 +38,10 @@ I’m currently preparing for **SDE-1 roles** at top companies like **Google, Am
 - **Lovely Professional University** — Punjab, India  
   *B.Tech(CSE-AI/ML)(2023 - Present)* — **CGPA: 7.5**
 
-- **Sri Chaitanya College** — Khammam, Telangana  
+- **Krishna Veni Junior College** — Khammam, Telangana  
   *Intermediate (2021 – 2023)* — **94%**
 
-- **Sri Chaitanya School** — Hyderabad, Telangana  
+- **Brilliant High Schools** — Dornakal, Telangana  
   *Matriculation (2011 – 2021)* — **100%**
 
 
